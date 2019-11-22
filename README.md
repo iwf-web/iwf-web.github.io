@@ -7,7 +7,7 @@ Unsere aktuell ausgeschriebenen Stellen findest du auf [hier](https://www.iwf.ch
 
 - Unsere Webseite: [https://web-solutions.io](https://web-solutions.io)
 - Unser GitHub Account: [https://github.com/iwf-web](https://github.com/iwf-web)
-- Unser Dockerhub Account: [https://hub.docker.com/repository/docker/iwfwebsolutions](https://hub.docker.com/repository/docker/iwfwebsolutions)
+- Unser Dockerhub Account: [https://hub.docker.com/u/iwfwebsolutions](https://hub.docker.com/u/iwfwebsolutions)
 
 
 ## Unsere Arbeitsmittel
@@ -25,7 +25,7 @@ Die zugehörigen Scripts, Dokumentationen und Docker-Images stellen wir euch fü
 Dokumentation ist wichtig, ein funktionierendes Beispiel noch wichtiger. 
 
 Wir haben ein Beispielprojekt erstellt, das all unsere veröffentlichten Projekte integriert: Eine Vagrant-Box mit Docker-Inside, in der ein
-Symfony4-Projekt mit Nginx und MySQL läuft. Dazu eine umfassende Dokumentation (ausbaufähig! Hilf uns!) und Integration in PhpStorm.
+Symfony 4-Projekt mit Nginx und MySQL läuft. Dazu eine umfassende Dokumentation (ausbaufähig! Hilf uns!) und Integration in PhpStorm.
 
 [https://github.com/iwf-web/symfony-vagrant-docker-example](https://github.com/iwf-web/symfony-vagrant-docker-example)
 
@@ -33,11 +33,11 @@ Symfony4-Projekt mit Nginx und MySQL läuft. Dazu eine umfassende Dokumentation 
 ### Die Docker Base Images
 
 Es gibt tausende Images auf Dockerhub. Wer sein eigenes PHP-Image auf Basis des sehr schlanken Official Images bauen will, muss ein bisschen
-Zeit investieren. Auch für den Start muss man sich Gedanken machen, und wie man Logfiles, Berechtigungen usw. umgeht. Wir haben das bereits
+Zeit investieren. Auch muss man sich Gedanken machen, und wie man Startscripts, Daemonen, Logfiles, Berechtigungen usw. umgeht. Wir haben das bereits
 alles in langwieriger Arbeit entwickelt und optimiert. Hier findet ihr unsere optimierten und wöchentlich neu gebauten Basis-Images:
 
 
-- [**PHP-FPM**](https://hub.docker.com/repository/docker/iwfwebsolutions/phpfpm): aktuell v7.3, mit vielen Modulen und hilfreichen Scripts
+- [**PHP-FPM**](https://hub.docker.com/repository/docker/iwfwebsolutions/phpfpm): aktuell PHP 7.3 und PHP 7.1, mit vielen Modulen und hilfreichen Scripts
 - [**Nginx**](https://hub.docker.com/repository/docker/iwfwebsolutions/nginx): aktuell v1.14, mit Konfiguration für Symfony3, Symfony4 und CraftCMS 
 - [**MySQL**](https://hub.docker.com/repository/docker/iwfwebsolutions/mysql): aktuell v5.7, mit einer guten Default-Config
 
@@ -60,7 +60,7 @@ Wiederverwendbarer Code ist ein wichtiger Baustein der Open Source Community. Wi
 
 ### Symfony bundles
 
-Unser Lieblings-Framework für die Backend-Entwicklung ist Symfony, aktuell noch in Version 3, bald stellen wir um auf Version 4.
+Unser Lieblings-Framework für die Backend-Entwicklung ist [Symfony](https://symfony.com), aktuell noch in Version 3, bald stellen wir um auf Version 4.
 
 Wir haben natürlich bereits viele eigene Symfony Bundles entwickelt, die in unseren komplexen Applikationen eingesetzt werden. 
 Einige davon werden wir nach und nach der Community bereitstellen.
