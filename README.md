@@ -5,9 +5,9 @@ Hier findest du alle unsere bisher veröffentlichten und gepflegten Projekte, di
 Wenn du Interesse hast, daran mitzuarbeiten, dann mach das doch auf [Github](https://www.github.com/iwf-web), oder bewirb dich bei uns als Entwickler. 
 Unsere aktuell ausgeschriebenen Stellen findest du auf [hier](https://www.iwf.ch/web-solutions/jobs).
 
-Uns findest du übrigens auf:
-
-[https://web-solutions.io](https://web-solutions.io)
+- Unsere Webseite: [https://web-solutions.io](https://web-solutions.io)
+- Unser GitHub Account: [https://github.com/iwf-web](https://github.com/iwf-web)
+- Unser Dockerhub Account: [https://hub.docker.com/repository/docker/iwfwebsolutions](https://hub.docker.com/repository/docker/iwfwebsolutions)
 
 
 ## Unsere Arbeitsmittel
