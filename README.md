@@ -40,6 +40,7 @@ alles in langwieriger Arbeit entwickelt und optimiert. Hier findet ihr unsere op
 - [**PHP-FPM**](https://hub.docker.com/repository/docker/iwfwebsolutions/phpfpm): aktuell PHP 7.3 und PHP 7.1, mit vielen Modulen und hilfreichen Scripts
 - [**Nginx**](https://hub.docker.com/repository/docker/iwfwebsolutions/nginx): aktuell v1.14, mit Konfiguration für Symfony3, Symfony4 und CraftCMS 
 - [**MySQL**](https://hub.docker.com/repository/docker/iwfwebsolutions/mysql): aktuell v5.7, mit einer guten Default-Config
+- [**MariaDB**](https://hub.docker.com/repository/docker/iwfwebsolutions/mariadb): aktuell v10.2, als Alternative zu MySQL
 
 
 ### Vagrant
